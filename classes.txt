@@ -1,0 +1,2 @@
+0 Door
+1 Window
